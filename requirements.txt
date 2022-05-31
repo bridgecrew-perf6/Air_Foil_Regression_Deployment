@@ -1,5 +1,5 @@
 flask
-guicorn
+guicorn-20.1.0
 Jinja2
 Werkzeug
 numpy
